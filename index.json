@@ -7,6 +7,7 @@
   "daily/2022/02.csv",
   "daily/2022/03.csv",
   "daily/2022/04.csv",
+  "daily/2022/05.csv",
   "hourly/2021/09-12.csv",
   "hourly/2021/09-19.csv",
   "hourly/2021/09-26.csv",
@@ -37,5 +38,6 @@
   "hourly/2022/04-03.csv",
   "hourly/2022/04-10.csv",
   "hourly/2022/04-17.csv",
-  "hourly/2022/04-24.csv"
+  "hourly/2022/04-24.csv",
+  "hourly/2022/05-01.csv"
 ]
