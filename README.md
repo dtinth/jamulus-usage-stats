@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project has been archived. Please go to [jamulus-archive](https://github.com/dtinth/jamulus-archive) instead.
+
 # Jamulus usage stats by country
 
 ## `index.json`
